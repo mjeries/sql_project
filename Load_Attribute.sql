@@ -1,5 +1,5 @@
 INSERT INTO Attribute_Table VALUES
-('Amount'  ,'Grant'        ,NULL,'VARCHAR'); 
+('Amount'  ,'Grant'        ,NULL,'NUMBER'); 
 INSERT INTO Attribute_Table VALUES    
 ('City'    ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES         
@@ -9,13 +9,13 @@ INSERT INTO Attribute_Table VALUES
 INSERT INTO Attribute_Table VALUES
 ('Cname'   ,'Course'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Cnbr'    ,'Course'       ,NULL,'VARCHAR');
+('Cnbr'    ,'Course'       ,NULL,'NUMBER');
 INSERT INTO Attribute_Table VALUES
 ('Ctitle'  ,'Course'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('DOB'     ,'Person'       ,NULL,'VARCHAR');
+('DOB'     ,'Person'       ,NULL,'DATE');
 INSERT INTO Attribute_Table VALUES
-('Date'    ,'Grant'        ,NULL,'VARCHAR');
+('Date'    ,'Grant'        ,NULL,'DATE');
 INSERT INTO Attribute_Table VALUES 
 ('Dean'    ,'College'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
@@ -45,7 +45,7 @@ INSERT INTO Attribute_Table VALUES
 INSERT INTO Attribute_Table VALUES 
 ('SSN'     ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Salary'  ,'Faculty'      ,NULL,'VARCHAR');
+('Salary'  ,'Faculty'      ,NULL,'NUMBER');
 INSERT INTO Attribute_Table VALUES 
 ('Secnbr'  ,'Section'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
