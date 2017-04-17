@@ -10,7 +10,8 @@ CREATE TABLE Attribute_Table
   (
     Attribute_Name             VARCHAR2 (40) NOT NULL ,
     Entity_Name                VARCHAR2 (40),
-    Relation_Name              VARCHAR2 (40) 
+    Relation_Name              VARCHAR2 (40),
+    Attribute_Type             VARCHAR2 (40) NOT NULL
   ) ;
 ALTER TABLE Attribute_Table ADD CONSTRAINT Attribute_PK PRIMARY KEY 
 ( Attribute_Name ) ;
