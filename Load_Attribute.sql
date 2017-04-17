@@ -1,63 +1,63 @@
 INSERT INTO Attribute_Table VALUES
-('Amount'  ,'Grant'        ,NULL); 
+('Amount'  ,'Grant'        ,NULL,'VARCHAR'); 
 INSERT INTO Attribute_Table VALUES    
-('City'    ,'Person'       ,NULL);
+('City'    ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES         
-('Class'   ,'Student'      ,NULL);
+('Class'   ,'Student'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Clname'  ,'College'      ,NULL);
+('Clname'  ,'College'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Cname'   ,'Course'       ,NULL);
+('Cname'   ,'Course'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Cnbr'    ,'Course'       ,NULL);
+('Cnbr'    ,'Course'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Ctitle'  ,'Course'       ,NULL);
+('Ctitle'  ,'Course'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('DOB'     ,'Person'       ,NULL);
+('DOB'     ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Date'    ,'Grant'        ,NULL);
+('Date'    ,'Grant'        ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Dean'    ,'College'      ,NULL);
+('Dean'    ,'College'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Degree'  ,'Grad_student' ,NULL);
+('Degree'  ,'Grad_student' ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Dname'   ,'Department'   ,NULL);
+('Dname'   ,'Department'   ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Dphone'  ,'Department'   ,NULL);
+('Dphone'  ,'Department'   ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Fname'   ,'Person'       ,NULL);
+('Fname'   ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Foffice' ,'Faculty'      ,NULL);
+('Foffice' ,'Faculty'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Fphone'  ,'Faculty'      ,NULL);
+('Fphone'  ,'Faculty'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Grade'   ,NULL           ,'Earns');
+('Grade'   ,NULL           ,'Earns','VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Lname'   ,'Person'       ,NULL);
+('Lname'   ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Minit'   ,'Person'       ,NULL);
+('Minit'   ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Office'  ,'Department'   ,NULL);
+('Office'  ,'Department'   ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Qtr'     ,'Section'      ,NULL);
+('Qtr'     ,'Section'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Rank'    ,'Faculty'      ,NULL);
+('Rank'    ,'Faculty'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('SSN'     ,'Person'       ,NULL);
+('SSN'     ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Salary'  ,'Faculty'      ,NULL);
+('Salary'  ,'Faculty'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Secnbr'  ,'Section'      ,NULL);
+('Secnbr'  ,'Section'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Sex'     ,'Person'       ,NULL);
+('Sex'     ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('State'   ,'Person'       ,NULL);
+('State'   ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Street'  ,'Person'       ,NULL);
+('Street'  ,'Person'       ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES 
-('Title'   ,'Grant'        ,NULL);
+('Title'   ,'Grant'        ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES
-('Year'    ,'Section'      ,NULL);
+('Year'    ,'Section'      ,NULL,'VARCHAR');
 INSERT INTO Attribute_Table VALUES  
-('Zip'     ,'Person'       ,NULL);
+('Zip'     ,'Person'       ,NULL,'VARCHAR');
 
