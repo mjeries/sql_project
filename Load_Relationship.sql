@@ -5,7 +5,7 @@ INSERT INTO Relationship_Table VALUES
 INSERT INTO Relationship_Table VALUES
 ('Earns', 'Student', 'Section', 'M', 'M');
 INSERT INTO Relationship_Table VALUES
-('Has', 'Section', 'Course', '1', 'M';
+('Has', 'Section', 'Course', '1', 'M');
 INSERT INTO Relationship_Table VALUES
 ('IsWithin', 'Department', 'College', '1', 'M');
 INSERT INTO Relationship_Table VALUES
@@ -23,5 +23,5 @@ INSERT INTO Relationship_Table VALUES
 INSERT INTO Relationship_Table VALUES
 ('WorksIn', 'Faculty', 'Department', '1', 'M');
 INSERT INTO Relationship_Table VALUES
-('WorksOn', 'Grant', Grad_student', 'M', 'M');
+('WorksOn', 'Grant', 'Grad_student', 'M', 'M');
 
