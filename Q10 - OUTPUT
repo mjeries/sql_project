@@ -1,0 +1,6 @@
+ENTITY_NAME                              SUPER_ENTITY                           
+---------------------------------------- ----------------------------------------
+Faculty                                  Person                                  
+Grad_student                             Student                                 
+Student                                  Person                                  
+

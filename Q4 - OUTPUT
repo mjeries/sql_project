@@ -1,0 +1,21 @@
+RELATION_NAME                            SOURCE_ENTITY_NAME                       DEST_ENTITY_NAME                         SOUR TARG
+---------------------------------------- ---------------------------------------- ---------------------------------------- ---- ----
+Advices                                  Faculty                                  Grad_student                             M    1   
+Chairs                                   Faculty                                  Department                               1    1   
+Earns                                    Student                                  Section                                  M    M   
+Has                                      Section                                  Course                                   1    M   
+IsWithin                                 Department                               College                                  1    M   
+MajorsIn                                 Student                                  Department                               1    M   
+Offers                                   Deaprtment                               Course                                   M    1   
+Owns                                     Faculty                                  Grant                                    M    M   
+RegistersFor                             Student                                  Section                                  M    M   
+Teaches                                  Faculty                                  Section                                  M    1   
+Tutors                                   Grad_student                             Section                                  M    M   
+
+RELATION_NAME                            SOURCE_ENTITY_NAME                       DEST_ENTITY_NAME                         SOUR TARG
+---------------------------------------- ---------------------------------------- ---------------------------------------- ---- ----
+WorksIn                                  Faculty                                  Department                               1    M   
+WorksOn                                  Grant                                    Grad_student                             M    M   
+
+ 13 rows selected 
+

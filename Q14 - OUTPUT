@@ -1,0 +1,48 @@
+ATTRIBUTE_NAME                           ATTRIBUTE_TYPE                         
+---------------------------------------- ----------------------------------------
+Amount                                   NUMBER                                  
+City                                     VARCHAR                                 
+Class                                    VARCHAR                                 
+Clname                                   VARCHAR                                 
+Cname                                    VARCHAR                                 
+Cnbr                                     NUMBER                                  
+Ctitle                                   VARCHAR                                 
+DOB                                      DATE                                    
+Date                                     DATE                                    
+Dean                                     VARCHAR                                 
+Degree                                   VARCHAR                                 
+
+ATTRIBUTE_NAME                           ATTRIBUTE_TYPE                         
+---------------------------------------- ----------------------------------------
+Dname                                    VARCHAR                                 
+Dphone                                   VARCHAR                                 
+Fname                                    VARCHAR                                 
+Foffice                                  VARCHAR                                 
+Fphone                                   VARCHAR                                 
+Grade                                    VARCHAR                                 
+Lname                                    VARCHAR                                 
+Minit                                    VARCHAR                                 
+Office                                   VARCHAR                                 
+Qtr                                      VARCHAR                                 
+Rank                                     VARCHAR                                 
+
+ATTRIBUTE_NAME                           ATTRIBUTE_TYPE                         
+---------------------------------------- ----------------------------------------
+SSN                                      VARCHAR                                 
+Salary                                   NUMBER                                  
+Secnbr                                   VARCHAR                                 
+Sex                                      VARCHAR                                 
+State                                    VARCHAR                                 
+Street                                   VARCHAR                                 
+Title                                    VARCHAR                                 
+Year                                     VARCHAR                                 
+Zip                                      VARCHAR                                 
+Address                                  VARCHAR                                 
+Name                                     VARCHAR                                 
+
+ATTRIBUTE_NAME                           ATTRIBUTE_TYPE                         
+---------------------------------------- ----------------------------------------
+Age                                      NUMBER                                  
+
+ 34 rows selected 
+

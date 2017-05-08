@@ -1,0 +1,4 @@
+RELATION_NAME                            SOURCE_ENTITY_NAME                       DEST_ENTITY_NAME                       
+---------------------------------------- ---------------------------------------- ----------------------------------------
+Earns                                    Student                                  Section                                 
+
